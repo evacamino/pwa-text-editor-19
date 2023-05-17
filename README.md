@@ -16,7 +16,7 @@ SO THAT I can reliably retrieve them for later use
 
 ## Deployed
 https://pwa-19-text-editor.herokuapp.com/
-
+![image](https://github.com/evacamino/pwa-text-editor-19/assets/118796859/962683be-f892-4e4d-ac5e-2f5345b6cd45)
 
 
 ## Installation
