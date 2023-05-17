@@ -14,6 +14,11 @@ SO THAT I can reliably retrieve them for later use
 - [Credits](#credits)
 - [License](#license)
 
+## Deployed
+https://pwa-19-text-editor.herokuapp.com/
+
+
+
 ## Installation
 Npm install and then using npm start:dev
 
